@@ -1,0 +1,22 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "ROUTING_EXTENSION_VERSION": "~0.2",
+    "FUNCTIONS_EXTENSION_VERSION": "~1",
+    "ScmType": "None",
+    "AzureWebJobsSecretStorageType": "Blob",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "FALLBACK_URL": "https://cloud.com/",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "1e28dae2-f5c3-452e-8da9-44cdb3688015",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=azfnstore77k7zbllvkgbo;AccountKey=gYSAs1TmyIV616QfaiBtDPwVAZ67QYsB6yMdzi05hnBVyWDQaQi6YJbynektZ6Z02g6JeN1lyMNEI2XED652VA==",
+    "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
+    "SHORTENER_URL": "cloud.azurewebsites.net/",
+    "Project": "functionApp",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=azfnstore77k7zbllvkgbo;AccountKey=gYSAs1TmyIV616QfaiBtDPwVAZ67QYsB6yMdzi05hnBVyWDQaQi6YJbynektZ6Z02g6JeN1lyMNEI2XED652VA==",
+    "WEBSITE_CONTENTSHARE": "cloud",
+    "UTM_SOURCE": "ervin210",
+    "WEBSITE_SITE_NAME": "Cloud",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=azfnstore77k7zbllvkgbo;AccountKey=gYSAs1TmyIV616QfaiBtDPwVAZ67QYsB6yMdzi05hnBVyWDQaQi6YJbynektZ6Z02g6JeN1lyMNEI2XED652VA=="
+  }
+}
